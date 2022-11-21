@@ -1,0 +1,13 @@
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Selambebekbenkelebek\bin\Debug\Selambebekbenkelebek.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Selambebekbenkelebek\bin\Debug\Selambebekbenkelebek.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Selambebekbenkelebek\bin\Debug\Selambebekbenkelebek.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Selambebekbenkelebek\obj\Debug\EmptySpace.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Selambebekbenkelebek\obj\Debug\Selambebekbenkelebek.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Selambebekbenkelebek\obj\Debug\Selambebekbenkelebek.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Selambebekbenkelebek\bin\Debug\Selambebekbenkelebek.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Selambebekbenkelebek\bin\Debug\Selambebekbenkelebek.exe
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Selambebekbenkelebek\bin\Debug\Selambebekbenkelebek.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Selambebekbenkelebek\obj\Debug\EmptySpace.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Selambebekbenkelebek\obj\Debug\EmptySpace.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Selambebekbenkelebek\obj\Debug\Selambebekbenkelebek.exe
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Selambebekbenkelebek\obj\Debug\Selambebekbenkelebek.pdb

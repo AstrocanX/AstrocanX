@@ -1,0 +1,6 @@
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ternary\bin\Debug\ternary.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ternary\bin\Debug\ternary.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ternary\bin\Debug\ternary.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ternary\obj\Debug\ternary.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ternary\obj\Debug\ternary.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ternary\obj\Debug\ternary.pdb

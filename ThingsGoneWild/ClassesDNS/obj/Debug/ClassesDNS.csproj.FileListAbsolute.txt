@@ -1,0 +1,10 @@
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\obj\Debug\ClassesDNS.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\obj\Debug\ClassesDNS.Form1.resources
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\obj\Debug\ClassesDNS.Properties.Resources.resources
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\obj\Debug\ClassesDNS.csproj.GenerateResource.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\obj\Debug\ClassesDNS.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\bin\Debug\ClassesDNS.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\bin\Debug\ClassesDNS.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\bin\Debug\ClassesDNS.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\obj\Debug\ClassesDNS.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNS\obj\Debug\ClassesDNS.pdb

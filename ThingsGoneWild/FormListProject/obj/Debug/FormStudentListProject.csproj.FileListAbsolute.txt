@@ -1,0 +1,10 @@
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\bin\Debug\FormListProject.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\bin\Debug\FormListProject.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\bin\Debug\FormListProject.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\obj\Debug\FormListProject.Form1.resources
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\obj\Debug\FormListProject.Properties.Resources.resources
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\obj\Debug\FormStudentListProject.csproj.GenerateResource.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\obj\Debug\FormStudentListProject.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\obj\Debug\FormListProject.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\obj\Debug\FormListProject.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FormListProject\obj\Debug\FormStudentListProject.csproj.AssemblyReference.cache
