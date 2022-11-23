@@ -1,0 +1,14 @@
+C:\Users\ackan\source\repos\Continue\Continue\bin\Debug\Continue.exe.config
+C:\Users\ackan\source\repos\Continue\Continue\bin\Debug\Continue.exe
+C:\Users\ackan\source\repos\Continue\Continue\bin\Debug\Continue.pdb
+C:\Users\ackan\source\repos\Continue\Continue\obj\Debug\Continue.csproj.AssemblyReference.cache
+C:\Users\ackan\source\repos\Continue\Continue\obj\Debug\Continue.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\Continue\obj\Debug\Continue.exe
+C:\Users\ackan\source\repos\Continue\Continue\obj\Debug\Continue.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Continue\bin\Debug\Continue.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Continue\bin\Debug\Continue.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Continue\bin\Debug\Continue.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Continue\obj\Debug\Continue.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Continue\obj\Debug\Continue.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Continue\obj\Debug\Continue.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\Continue\obj\Debug\Continue.pdb

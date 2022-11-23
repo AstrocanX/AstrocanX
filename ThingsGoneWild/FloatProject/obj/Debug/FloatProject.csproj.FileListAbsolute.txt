@@ -1,0 +1,14 @@
+C:\Users\ackan\source\repos\Continue\FloatProject\bin\Debug\FloatProject.exe.config
+C:\Users\ackan\source\repos\Continue\FloatProject\bin\Debug\FloatProject.exe
+C:\Users\ackan\source\repos\Continue\FloatProject\bin\Debug\FloatProject.pdb
+C:\Users\ackan\source\repos\Continue\FloatProject\obj\Debug\FloatProject.csproj.AssemblyReference.cache
+C:\Users\ackan\source\repos\Continue\FloatProject\obj\Debug\FloatProject.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\FloatProject\obj\Debug\FloatProject.exe
+C:\Users\ackan\source\repos\Continue\FloatProject\obj\Debug\FloatProject.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FloatProject\bin\Debug\FloatProject.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FloatProject\bin\Debug\FloatProject.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FloatProject\bin\Debug\FloatProject.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FloatProject\obj\Debug\FloatProject.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FloatProject\obj\Debug\FloatProject.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FloatProject\obj\Debug\FloatProject.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\FloatProject\obj\Debug\FloatProject.pdb

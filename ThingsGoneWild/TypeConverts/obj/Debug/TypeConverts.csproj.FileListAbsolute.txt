@@ -1,0 +1,7 @@
+C:\Users\ackan\source\repos\Continue\TypeConverts\obj\Debug\TypeConverts.csproj.AssemblyReference.cache
+C:\Users\ackan\source\repos\Continue\TypeConverts\obj\Debug\TypeConverts.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\TypeConverts\bin\Debug\TypeConverts.exe.config
+C:\Users\ackan\source\repos\Continue\TypeConverts\bin\Debug\TypeConverts.exe
+C:\Users\ackan\source\repos\Continue\TypeConverts\bin\Debug\TypeConverts.pdb
+C:\Users\ackan\source\repos\Continue\TypeConverts\obj\Debug\TypeConverts.exe
+C:\Users\ackan\source\repos\Continue\TypeConverts\obj\Debug\TypeConverts.pdb

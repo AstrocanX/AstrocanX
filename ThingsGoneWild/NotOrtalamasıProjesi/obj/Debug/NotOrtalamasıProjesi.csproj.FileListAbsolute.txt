@@ -1,0 +1,14 @@
+C:\Users\ackan\source\repos\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.csproj.AssemblyReference.cache
+C:\Users\ackan\source\repos\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\NotOrtalamasıProjesi\bin\Debug\NotOrtalamasıProjesi.exe.config
+C:\Users\ackan\source\repos\Continue\NotOrtalamasıProjesi\bin\Debug\NotOrtalamasıProjesi.exe
+C:\Users\ackan\source\repos\Continue\NotOrtalamasıProjesi\bin\Debug\NotOrtalamasıProjesi.pdb
+C:\Users\ackan\source\repos\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.exe
+C:\Users\ackan\source\repos\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\NotOrtalamasıProjesi\bin\Debug\NotOrtalamasıProjesi.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\NotOrtalamasıProjesi\bin\Debug\NotOrtalamasıProjesi.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\NotOrtalamasıProjesi\bin\Debug\NotOrtalamasıProjesi.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\NotOrtalamasıProjesi\obj\Debug\NotOrtalamasıProjesi.pdb

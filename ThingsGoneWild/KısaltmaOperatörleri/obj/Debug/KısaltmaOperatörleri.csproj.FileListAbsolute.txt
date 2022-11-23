@@ -1,0 +1,7 @@
+C:\Users\ackan\source\repos\Continue\KısaltmaOperatörleri\bin\Debug\KısaltmaOperatörleri.exe.config
+C:\Users\ackan\source\repos\Continue\KısaltmaOperatörleri\bin\Debug\KısaltmaOperatörleri.exe
+C:\Users\ackan\source\repos\Continue\KısaltmaOperatörleri\bin\Debug\KısaltmaOperatörleri.pdb
+C:\Users\ackan\source\repos\Continue\KısaltmaOperatörleri\obj\Debug\KısaltmaOperatörleri.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\KısaltmaOperatörleri\obj\Debug\KısaltmaOperatörleri.exe
+C:\Users\ackan\source\repos\Continue\KısaltmaOperatörleri\obj\Debug\KısaltmaOperatörleri.pdb
+C:\Users\ackan\source\repos\Continue\KısaltmaOperatörleri\obj\Debug\KısaltmaOperatörleri.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\ackan\source\repos\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe.config
+C:\Users\ackan\source\repos\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe
+C:\Users\ackan\source\repos\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.pdb
+C:\Users\ackan\source\repos\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.exe
+C:\Users\ackan\source\repos\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.pdb
+C:\Users\ackan\source\repos\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.pdb

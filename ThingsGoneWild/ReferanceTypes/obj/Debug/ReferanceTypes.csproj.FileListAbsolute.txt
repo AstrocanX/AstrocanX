@@ -1,0 +1,7 @@
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ReferanceTypes\bin\Debug\ReferanceTypes.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ReferanceTypes\bin\Debug\ReferanceTypes.exe
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ReferanceTypes\bin\Debug\ReferanceTypes.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ReferanceTypes\obj\Debug\ReferanceTypes.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ReferanceTypes\obj\Debug\ReferanceTypes.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ReferanceTypes\obj\Debug\ReferanceTypes.exe
+C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ReferanceTypes\obj\Debug\ReferanceTypes.pdb

@@ -1,0 +1,6 @@
+C:\Users\ackan\source\repos\Continue\DeğilOperatörü\bin\Debug\DeğilOperatörü.exe.config
+C:\Users\ackan\source\repos\Continue\DeğilOperatörü\bin\Debug\DeğilOperatörü.exe
+C:\Users\ackan\source\repos\Continue\DeğilOperatörü\bin\Debug\DeğilOperatörü.pdb
+C:\Users\ackan\source\repos\Continue\DeğilOperatörü\obj\Debug\DeğilOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\DeğilOperatörü\obj\Debug\DeğilOperatörü.exe
+C:\Users\ackan\source\repos\Continue\DeğilOperatörü\obj\Debug\DeğilOperatörü.pdb

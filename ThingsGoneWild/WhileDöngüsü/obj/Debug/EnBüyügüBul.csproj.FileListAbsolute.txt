@@ -1,0 +1,7 @@
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\EnBüyügüBul.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\EnBüyügüBul.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\obj\Debug\WhileDöngüsü.pdb
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe.config
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe
+C:\Users\ackan\OneDrive\Masaüstü\Continue\WhileDöngüsü\bin\Debug\WhileDöngüsü.pdb

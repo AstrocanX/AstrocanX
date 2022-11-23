@@ -1,0 +1,6 @@
+C:\Users\ackan\source\repos\Continue\AtamaVeEşittirOperatörü\bin\Debug\AtamaVeEşittirOperatörü.exe.config
+C:\Users\ackan\source\repos\Continue\AtamaVeEşittirOperatörü\bin\Debug\AtamaVeEşittirOperatörü.exe
+C:\Users\ackan\source\repos\Continue\AtamaVeEşittirOperatörü\bin\Debug\AtamaVeEşittirOperatörü.pdb
+C:\Users\ackan\source\repos\Continue\AtamaVeEşittirOperatörü\obj\Debug\AtamaVeEşittirOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\AtamaVeEşittirOperatörü\obj\Debug\AtamaVeEşittirOperatörü.exe
+C:\Users\ackan\source\repos\Continue\AtamaVeEşittirOperatörü\obj\Debug\AtamaVeEşittirOperatörü.pdb

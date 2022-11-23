@@ -1,0 +1,6 @@
+C:\Users\ackan\source\repos\Continue\VeOperatörü\bin\Debug\VeOperatörü.exe.config
+C:\Users\ackan\source\repos\Continue\VeOperatörü\bin\Debug\VeOperatörü.exe
+C:\Users\ackan\source\repos\Continue\VeOperatörü\bin\Debug\VeOperatörü.pdb
+C:\Users\ackan\source\repos\Continue\VeOperatörü\obj\Debug\VeOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\ackan\source\repos\Continue\VeOperatörü\obj\Debug\VeOperatörü.exe
+C:\Users\ackan\source\repos\Continue\VeOperatörü\obj\Debug\VeOperatörü.pdb
