@@ -1,6 +1,0 @@
-C:\Users\ackan\OneDrive\Masaüstü\Continue\List1\bin\Debug\List1.exe.config
-C:\Users\ackan\OneDrive\Masaüstü\Continue\List1\bin\Debug\List1.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\List1\bin\Debug\List1.pdb
-C:\Users\ackan\OneDrive\Masaüstü\Continue\List1\obj\Debug\Lists.csproj.CoreCompileInputs.cache
-C:\Users\ackan\OneDrive\Masaüstü\Continue\List1\obj\Debug\List1.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\List1\obj\Debug\List1.pdb

@@ -1,7 +1,0 @@
-C:\Users\ackan\source\repos\Continue\ForDöngüsü\bin\Debug\ForDöngüsü.exe.config
-C:\Users\ackan\source\repos\Continue\ForDöngüsü\bin\Debug\ForDöngüsü.exe
-C:\Users\ackan\source\repos\Continue\ForDöngüsü\bin\Debug\ForDöngüsü.pdb
-C:\Users\ackan\source\repos\Continue\ForDöngüsü\obj\Debug\ForDöngüsü.csproj.AssemblyReference.cache
-C:\Users\ackan\source\repos\Continue\ForDöngüsü\obj\Debug\ForDöngüsü.csproj.CoreCompileInputs.cache
-C:\Users\ackan\source\repos\Continue\ForDöngüsü\obj\Debug\ForDöngüsü.exe
-C:\Users\ackan\source\repos\Continue\ForDöngüsü\obj\Debug\ForDöngüsü.pdb

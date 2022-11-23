@@ -1,7 +1,0 @@
-C:\Users\ackan\source\repos\Continue\AtmSwichCase\obj\Debug\AtmSwichCase.csproj.AssemblyReference.cache
-C:\Users\ackan\source\repos\Continue\AtmSwichCase\obj\Debug\AtmSwichCase.csproj.CoreCompileInputs.cache
-C:\Users\ackan\source\repos\Continue\AtmSwichCase\bin\Debug\AtmSwichCase.exe.config
-C:\Users\ackan\source\repos\Continue\AtmSwichCase\bin\Debug\AtmSwichCase.exe
-C:\Users\ackan\source\repos\Continue\AtmSwichCase\bin\Debug\AtmSwichCase.pdb
-C:\Users\ackan\source\repos\Continue\AtmSwichCase\obj\Debug\AtmSwichCase.exe
-C:\Users\ackan\source\repos\Continue\AtmSwichCase\obj\Debug\AtmSwichCase.pdb

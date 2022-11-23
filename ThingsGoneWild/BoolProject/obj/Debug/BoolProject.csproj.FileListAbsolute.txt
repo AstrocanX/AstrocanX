@@ -1,6 +1,0 @@
-C:\Users\ackan\source\repos\Continue\BoolProject\bin\Debug\BoolProject.exe.config
-C:\Users\ackan\source\repos\Continue\BoolProject\bin\Debug\BoolProject.exe
-C:\Users\ackan\source\repos\Continue\BoolProject\bin\Debug\BoolProject.pdb
-C:\Users\ackan\source\repos\Continue\BoolProject\obj\Debug\BoolProject.csproj.CoreCompileInputs.cache
-C:\Users\ackan\source\repos\Continue\BoolProject\obj\Debug\BoolProject.exe
-C:\Users\ackan\source\repos\Continue\BoolProject\obj\Debug\BoolProject.pdb

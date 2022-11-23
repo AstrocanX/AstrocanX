@@ -1,7 +1,0 @@
-C:\Users\ackan\source\repos\Continue\ByteProject\bin\Debug\ByteProject.exe.config
-C:\Users\ackan\source\repos\Continue\ByteProject\bin\Debug\ByteProject.exe
-C:\Users\ackan\source\repos\Continue\ByteProject\bin\Debug\ByteProject.pdb
-C:\Users\ackan\source\repos\Continue\ByteProject\obj\Debug\ByteProject.csproj.AssemblyReference.cache
-C:\Users\ackan\source\repos\Continue\ByteProject\obj\Debug\ByteProject.csproj.CoreCompileInputs.cache
-C:\Users\ackan\source\repos\Continue\ByteProject\obj\Debug\ByteProject.exe
-C:\Users\ackan\source\repos\Continue\ByteProject\obj\Debug\ByteProject.pdb

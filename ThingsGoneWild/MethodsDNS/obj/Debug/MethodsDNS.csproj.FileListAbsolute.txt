@@ -1,7 +1,0 @@
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\MethodsDNS\obj\Debug\MethodsDNS.csproj.AssemblyReference.cache
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\MethodsDNS\obj\Debug\MethodsDNS.csproj.CoreCompileInputs.cache
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\MethodsDNS\bin\Debug\MethodsDNS.exe.config
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\MethodsDNS\bin\Debug\MethodsDNS.exe
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\MethodsDNS\bin\Debug\MethodsDNS.pdb
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\MethodsDNS\obj\Debug\MethodsDNS.exe
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\MethodsDNS\obj\Debug\MethodsDNS.pdb

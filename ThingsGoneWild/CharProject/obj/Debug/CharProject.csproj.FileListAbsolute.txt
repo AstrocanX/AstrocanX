@@ -1,7 +1,0 @@
-C:\Users\ackan\source\repos\Continue\CharProject\bin\Debug\CharProject.exe.config
-C:\Users\ackan\source\repos\Continue\CharProject\bin\Debug\CharProject.exe
-C:\Users\ackan\source\repos\Continue\CharProject\bin\Debug\CharProject.pdb
-C:\Users\ackan\source\repos\Continue\CharProject\obj\Debug\CharProject.csproj.AssemblyReference.cache
-C:\Users\ackan\source\repos\Continue\CharProject\obj\Debug\CharProject.csproj.CoreCompileInputs.cache
-C:\Users\ackan\source\repos\Continue\CharProject\obj\Debug\CharProject.exe
-C:\Users\ackan\source\repos\Continue\CharProject\obj\Debug\CharProject.pdb

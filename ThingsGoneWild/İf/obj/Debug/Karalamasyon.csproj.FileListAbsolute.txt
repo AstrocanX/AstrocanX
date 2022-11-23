@@ -1,7 +1,0 @@
-C:\Users\ackan\OneDrive\Masaüstü\Continue\İf\obj\Debug\Karalamasyon.csproj.CoreCompileInputs.cache
-C:\Users\ackan\OneDrive\Masaüstü\Continue\İf\bin\Debug\İf.exe.config
-C:\Users\ackan\OneDrive\Masaüstü\Continue\İf\bin\Debug\İf.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\İf\bin\Debug\İf.pdb
-C:\Users\ackan\OneDrive\Masaüstü\Continue\İf\obj\Debug\İf.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\İf\obj\Debug\İf.pdb
-C:\Users\ackan\OneDrive\Masaüstü\Continue\İf\obj\Debug\Karalamasyon.csproj.AssemblyReference.cache

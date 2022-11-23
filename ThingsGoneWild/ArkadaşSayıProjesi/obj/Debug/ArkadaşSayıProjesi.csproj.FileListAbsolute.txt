@@ -1,7 +1,0 @@
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ArkadaşSayıProjesi\obj\Debug\ArkadaşSayıProjesi.csproj.AssemblyReference.cache
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ArkadaşSayıProjesi\obj\Debug\ArkadaşSayıProjesi.csproj.CoreCompileInputs.cache
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ArkadaşSayıProjesi\bin\Debug\ArkadaşSayıProjesi.exe.config
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ArkadaşSayıProjesi\bin\Debug\ArkadaşSayıProjesi.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ArkadaşSayıProjesi\bin\Debug\ArkadaşSayıProjesi.pdb
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ArkadaşSayıProjesi\obj\Debug\ArkadaşSayıProjesi.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ArkadaşSayıProjesi\obj\Debug\ArkadaşSayıProjesi.pdb

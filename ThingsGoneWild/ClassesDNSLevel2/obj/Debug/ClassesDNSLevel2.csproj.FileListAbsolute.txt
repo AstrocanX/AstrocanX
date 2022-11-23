@@ -1,7 +1,0 @@
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNSLevel2\obj\Debug\ClassesDNSLevel2.csproj.AssemblyReference.cache
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNSLevel2\obj\Debug\ClassesDNSLevel2.csproj.CoreCompileInputs.cache
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNSLevel2\bin\Debug\ClassesDNSLevel2.exe.config
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNSLevel2\bin\Debug\ClassesDNSLevel2.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNSLevel2\bin\Debug\ClassesDNSLevel2.pdb
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNSLevel2\obj\Debug\ClassesDNSLevel2.exe
-C:\Users\ackan\OneDrive\Masaüstü\Continue\ClassesDNSLevel2\obj\Debug\ClassesDNSLevel2.pdb

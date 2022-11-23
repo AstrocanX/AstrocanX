@@ -1,7 +1,0 @@
-C:\Users\ackan\source\repos\Continue\ObjectProject\bin\Debug\ObjectProject.exe.config
-C:\Users\ackan\source\repos\Continue\ObjectProject\bin\Debug\ObjectProject.exe
-C:\Users\ackan\source\repos\Continue\ObjectProject\bin\Debug\ObjectProject.pdb
-C:\Users\ackan\source\repos\Continue\ObjectProject\obj\Debug\ObjectProject.csproj.CoreCompileInputs.cache
-C:\Users\ackan\source\repos\Continue\ObjectProject\obj\Debug\ObjectProject.exe
-C:\Users\ackan\source\repos\Continue\ObjectProject\obj\Debug\ObjectProject.pdb
-C:\Users\ackan\source\repos\Continue\ObjectProject\obj\Debug\ObjectProject.csproj.AssemblyReference.cache

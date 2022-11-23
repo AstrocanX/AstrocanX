@@ -1,7 +1,0 @@
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Constructors\bin\Debug\Constructors.exe.config
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Constructors\bin\Debug\Constructors.exe
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Constructors\bin\Debug\Constructors.pdb
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Constructors\obj\Debug\Constructors.exe
-C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Constructors\obj\Debug\Constructors.pdb
