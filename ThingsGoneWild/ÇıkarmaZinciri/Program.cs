@@ -69,7 +69,7 @@ namespace ÇıkarmaZinciri
                 }
                 if (magicalNumber != 1)
                 {
-                    Console.WriteLine(sixth.numberReal);
+                    Console.Write(sixth.numberReal+" ");
                 }
             }
 

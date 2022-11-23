@@ -5,3 +5,10 @@ C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\Çık
 C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ÇıkarmaZinciri\obj\Debug\ÇıkarmaZinciri.csproj.CoreCompileInputs.cache
 C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ÇıkarmaZinciri\obj\Debug\ÇıkarmaZinciri.exe
 C:\Users\ackan\OneDrive\Masaüstü\Kodumsular Ve Modumsular\ThingsGoneWild\ÇıkarmaZinciri\obj\Debug\ÇıkarmaZinciri.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ÇıkarmaZinciri\bin\Debug\ÇıkarmaZinciri.exe.config
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ÇıkarmaZinciri\bin\Debug\ÇıkarmaZinciri.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ÇıkarmaZinciri\bin\Debug\ÇıkarmaZinciri.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ÇıkarmaZinciri\obj\Debug\ÇıkarmaZinciri.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ÇıkarmaZinciri\obj\Debug\ÇıkarmaZinciri.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ÇıkarmaZinciri\obj\Debug\ÇıkarmaZinciri.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ÇıkarmaZinciri\obj\Debug\ÇıkarmaZinciri.pdb
