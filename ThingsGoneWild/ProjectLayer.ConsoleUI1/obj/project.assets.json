@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectLayer.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ProjectLayer.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjectLayer.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectLayer.Business.dll": {}
+        }
+      },
+      "ProjectLayer.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ProjectLayer.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjectLayer.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectLayer.DataAccess.dll": {}
+        }
+      },
+      "ProjectLayer.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjectLayer.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectLayer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectLayer.Business/1.0.0": {
+      "type": "project",
+      "path": "../ProjectLayer.Business/ProjectLayer.Business.csproj",
+      "msbuildProject": "../ProjectLayer.Business/ProjectLayer.Business.csproj"
+    },
+    "ProjectLayer.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../ProjectLayer.DataAccess/ProjectLayer.DataAccess.csproj",
+      "msbuildProject": "../ProjectLayer.DataAccess/ProjectLayer.DataAccess.csproj"
+    },
+    "ProjectLayer.Entities/1.0.0": {
+      "type": "project",
+      "path": "../PorjectLayer.Entities/ProjectLayer.Entities.csproj",
+      "msbuildProject": "../PorjectLayer.Entities/ProjectLayer.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ProjectLayer.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ackan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ackan\\OneDrive\\Belgeler\\GitHub\\AstrocanX\\ThingsGoneWild\\ProjectLayer.ConsoleUI1\\ProjectLayer.ConsoleUI1.csproj",
+      "projectName": "ProjectLayer.ConsoleUI1",
+      "projectPath": "C:\\Users\\ackan\\OneDrive\\Belgeler\\GitHub\\AstrocanX\\ThingsGoneWild\\ProjectLayer.ConsoleUI1\\ProjectLayer.ConsoleUI1.csproj",
+      "packagesPath": "C:\\Users\\ackan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ackan\\OneDrive\\Belgeler\\GitHub\\AstrocanX\\ThingsGoneWild\\ProjectLayer.ConsoleUI1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ackan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\ackan\\OneDrive\\Belgeler\\GitHub\\AstrocanX\\ThingsGoneWild\\ProjectLayer.Business\\ProjectLayer.Business.csproj": {
+              "projectPath": "C:\\Users\\ackan\\OneDrive\\Belgeler\\GitHub\\AstrocanX\\ThingsGoneWild\\ProjectLayer.Business\\ProjectLayer.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

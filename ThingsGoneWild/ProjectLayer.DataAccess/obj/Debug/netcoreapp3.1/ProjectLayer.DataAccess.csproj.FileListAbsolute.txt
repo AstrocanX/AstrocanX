@@ -1,0 +1,13 @@
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\bin\Debug\netcoreapp3.1\ProjectLayer.DataAccess.deps.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\bin\Debug\netcoreapp3.1\ProjectLayer.DataAccess.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\bin\Debug\netcoreapp3.1\ProjectLayer.DataAccess.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\bin\Debug\netcoreapp3.1\ProjectLayer.Entities.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\bin\Debug\netcoreapp3.1\ProjectLayer.Entities.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.AssemblyInfo.cs
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.csproj.CopyComplete
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.DataAccess\obj\Debug\netcoreapp3.1\ProjectLayer.DataAccess.pdb

@@ -39,7 +39,7 @@ namespace İf
 
             Console.ReadLine();
         }
-        static int number(int numbers)
+        static int Number(int numbers)
         {
             return numbers;
         }

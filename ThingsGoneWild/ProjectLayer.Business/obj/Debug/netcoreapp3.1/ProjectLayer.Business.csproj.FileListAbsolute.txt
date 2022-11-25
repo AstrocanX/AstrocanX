@@ -1,0 +1,15 @@
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\bin\Debug\netcoreapp3.1\ProjectLayer.Business.deps.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\bin\Debug\netcoreapp3.1\ProjectLayer.Business.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\bin\Debug\netcoreapp3.1\ProjectLayer.Business.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\bin\Debug\netcoreapp3.1\ProjectLayer.DataAccess.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\bin\Debug\netcoreapp3.1\ProjectLayer.Entities.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\bin\Debug\netcoreapp3.1\ProjectLayer.DataAccess.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\bin\Debug\netcoreapp3.1\ProjectLayer.Entities.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.AssemblyInfoInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.AssemblyInfo.cs
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.csproj.CopyComplete
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\ProjectLayer.Business\obj\Debug\netcoreapp3.1\ProjectLayer.Business.pdb

@@ -1,0 +1,10 @@
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\bin\Debug\netcoreapp3.1\ProjectLayer.Entities.deps.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\bin\Debug\netcoreapp3.1\ProjectLayer.Entities.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\bin\Debug\netcoreapp3.1\ProjectLayer.Entities.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\obj\Debug\netcoreapp3.1\ProjectLayer.Entities.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\obj\Debug\netcoreapp3.1\ProjectLayer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\obj\Debug\netcoreapp3.1\ProjectLayer.Entities.AssemblyInfoInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\obj\Debug\netcoreapp3.1\ProjectLayer.Entities.AssemblyInfo.cs
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\obj\Debug\netcoreapp3.1\ProjectLayer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\obj\Debug\netcoreapp3.1\ProjectLayer.Entities.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\PorjectLayer.Entities\obj\Debug\netcoreapp3.1\ProjectLayer.Entities.pdb

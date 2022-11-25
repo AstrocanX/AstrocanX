@@ -426,7 +426,12 @@ namespace ProjectClassesDNS
             this.Controls.Add(this.lblStudentList);
             this.Controls.Add(this.dgrwStudentPropertyList);
             this.ForeColor = System.Drawing.Color.DarkGreen;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(760, 489);
+            this.MinimumSize = new System.Drawing.Size(760, 489);
             this.Name = "form1";
+            this.ShowIcon = false;
             this.Text = "Student Management";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgrwStudentPropertyList)).EndInit();

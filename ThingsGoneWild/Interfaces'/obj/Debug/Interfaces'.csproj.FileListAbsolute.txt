@@ -1,0 +1,7 @@
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Interfaces'\bin\Debug\Interfaces'.exe.config
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Interfaces'\bin\Debug\Interfaces'.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Interfaces'\bin\Debug\Interfaces'.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Interfaces'\obj\Debug\Interfaces'.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Interfaces'\obj\Debug\Interfaces'.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Interfaces'\obj\Debug\Interfaces'.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Interfaces'\obj\Debug\Interfaces'.pdb
