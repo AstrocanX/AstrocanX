@@ -12,3 +12,10 @@ C:\Users\ackan\OneDrive\Masaüstü\Continue\AtmProjesi\obj\Debug\AtmProjesi.cspr
 C:\Users\ackan\OneDrive\Masaüstü\Continue\AtmProjesi\obj\Debug\AtmProjesi.csproj.CoreCompileInputs.cache
 C:\Users\ackan\OneDrive\Masaüstü\Continue\AtmProjesi\obj\Debug\AtmProjesi.exe
 C:\Users\ackan\OneDrive\Masaüstü\Continue\AtmProjesi\obj\Debug\AtmProjesi.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\AtmProjesi\bin\Debug\AtmProjesi.exe.config
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\AtmProjesi\bin\Debug\AtmProjesi.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\AtmProjesi\bin\Debug\AtmProjesi.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\AtmProjesi\obj\Debug\AtmProjesi.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\AtmProjesi\obj\Debug\AtmProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\AtmProjesi\obj\Debug\AtmProjesi.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\AtmProjesi\obj\Debug\AtmProjesi.pdb

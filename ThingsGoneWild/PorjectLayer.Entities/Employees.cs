@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ProjectLayer.Entities
 {
-    public class Employees
+    public class Employees:EntitySign
     {
 
         public string Name { get; set; }

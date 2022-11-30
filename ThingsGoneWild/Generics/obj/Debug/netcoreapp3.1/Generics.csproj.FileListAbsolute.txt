@@ -1,0 +1,14 @@
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

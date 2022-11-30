@@ -9,30 +9,36 @@ namespace ProjectLayer.Business
 {
     public class EmployeeManager
     {
+        IEmployeeDal employeeDal;
+        public EmployeeManager(IEmployeeDal employeeDalSample)
+        {
+            employeeDal = employeeDalSample;
+
+
+
+
+
+
+
+
+
+        }
+
+
+
+
         public List<Employees> getEmpB()
         {
-
-
-            IEmployeeDal employeeDal;
-            int i = 1;
-
-            if (i == 1)
-            {
-                employeeDal = new EmployeesDalAdoNet();
-            }
-            else
-            {
-                employeeDal= new EmployeesDalEntityFramework();
-            }
-
-
-           
             List<Employees> employees = new List<Employees>();
 
-          
+
+
+
+
+
             employees = employeeDal.getEmpI();
 
-            
+
             //Business Operation
             return employees;
 
@@ -40,7 +46,18 @@ namespace ProjectLayer.Business
 
         }
 
+        public void AddEmpB(Employees newEmployee)
+        {
 
+            //Business Operation
+            if (newEmployee.Name == "Tuncay")
+            {
+                throw new PersonException("Tuncay yok o yok kurtaramssın artık onu sal gitsin.");
+            }
+            
+            employeeDal.AddEmpI(newEmployee);
+
+        }
 
 
     }

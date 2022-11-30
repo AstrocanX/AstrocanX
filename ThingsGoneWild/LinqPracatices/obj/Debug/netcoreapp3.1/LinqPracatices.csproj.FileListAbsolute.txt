@@ -1,0 +1,16 @@
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\bin\Debug\netcoreapp3.1\LinqPracatices.exe
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\bin\Debug\netcoreapp3.1\LinqPracatices.deps.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\bin\Debug\netcoreapp3.1\LinqPracatices.runtimeconfig.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\bin\Debug\netcoreapp3.1\LinqPracatices.runtimeconfig.dev.json
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\bin\Debug\netcoreapp3.1\LinqPracatices.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\bin\Debug\netcoreapp3.1\LinqPracatices.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\bin\Debug\netcoreapp3.1\SuperSocket.ClientEngine.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.csproj.AssemblyReference.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.AssemblyInfoInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.AssemblyInfo.cs
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.csproj.CoreCompileInputs.cache
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.csproj.CopyComplete
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.dll
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.pdb
+C:\Users\ackan\OneDrive\Belgeler\GitHub\AstrocanX\ThingsGoneWild\LinqPracatices\obj\Debug\netcoreapp3.1\LinqPracatices.genruntimeconfig.cache

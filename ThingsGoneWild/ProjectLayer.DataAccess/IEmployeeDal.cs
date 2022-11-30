@@ -5,17 +5,10 @@ using System.Text;
 
 namespace ProjectLayer.DataAccess
 {
-    public interface IEmployeeDal
+    public interface IEmployeeDal:IEntityRepository<Employees>
     {
 
-        public List<Employees> getEmpI();
-        
-
-
-
-            
-        
-    
+      
     
     }
 }
