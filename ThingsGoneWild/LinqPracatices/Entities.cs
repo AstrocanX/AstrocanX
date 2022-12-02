@@ -4,9 +4,17 @@ using System.Text;
 
 namespace LinqPracatices
 {
-    
 
-        class t
+    class PersonDto // Data transformation object
+    {
+        public int jobId { get; set; }
+        public int Age { get; set; }
+
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public string CategoryName { get; set; }
+    }
+        class Person
         {
             public int jobId  { get; set; }
             public int Age { get; set; }
